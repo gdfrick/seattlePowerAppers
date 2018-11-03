@@ -97,3 +97,5 @@ These are some great blogs to follow to get the latest, greatest PowerPlatform i
     - New community of PowerPlatform User Groups forming across the world.
     - They have a new group of community forums as well.
 - [PowerSummit](https://www.powerugsummit.com/home)
+
+![](./assets/2018-11-03-12-42-07.png)

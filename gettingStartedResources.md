@@ -59,7 +59,7 @@ Updated: Thu Nov 1 07:09:49 PDT 2018
     - Weekly PowerPlatform livecast.
 - [Chris Clark](https://www.youtube.com/channel/UCcnipLKJqqj6vuUQlugUeRw/videos)
     - Couple useful videos!
-- [Microsoft Developer](Chttps://www.youtube.com/channel/UCcnipLKJqqj6vuUQlugUeRw)
+- [Microsoft Developer](https://www.youtube.com/channel/UCcnipLKJqqj6vuUQlugUeRw)
     - Lots of cutting edge content here!
 - [Microsoft PowerApps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
     - Microsofts official(?) PowerApps YouTube channel

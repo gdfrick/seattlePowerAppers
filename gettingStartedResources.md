@@ -74,6 +74,8 @@ You absolutely MUST join these communities if you are going to get into the Powe
     - The oldest(?) of the PowerPlatform communities. Has over 244k posts in the "Desktop" forum!
 - [Flow Community](https://powerusers.microsoft.com/t5/Microsoft-Flow-Community/ct-p/FlowCommunity)
     - Great community to report bugs, ask questions and get Flow answers!
+- [Stack Exchange PowerApps Newest Questions](https://stackoverflow.com/search?tab=newest&q=powerapps)
+    - Getting MANY more questions here. Lots of expertise.
 
 ## PowerPlatform Blogs
 

@@ -1,18 +1,7 @@
 # PowerApps support and learning resources
 
-Updated: Thu Nov 1 07:09:49 PDT 2018
-
-<!-- TOC -->
-
-- [PowerApps support and learning resources](#powerapps-support-and-learning-resources)
-    - [PowerPlatform Documentation](#powerplatform-documentation)
-    - [PowerPlatform Licensing](#powerplatform-licensing)
-    - [Power Platform YouTube: "Folks to follow"](#power-platform-youtube-%22folks-to-follow%22)
-    - [PowerPlatform Communities](#powerplatform-communities)
-    - [PowerPlatform Blogs](#powerplatform-blogs)
-    - [Live Events](#live-events)
-
-<!-- /TOC -->
+Created: Thu Nov 1 07:09:49 PDT 2018
+Updated: Sat Dec 29 12:23:44 PST 2018
 
 ## PowerPlatform Documentation
 

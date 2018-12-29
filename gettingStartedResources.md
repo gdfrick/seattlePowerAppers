@@ -63,6 +63,17 @@ Updated: Thu Nov 1 07:09:49 PDT 2018
     - Lots of cutting edge content here!
 - [Microsoft PowerApps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
     - Microsofts official(?) PowerApps YouTube channel
+    
+## PowerPlatform Twitter "Folks to Follow"
+
+- [Audrie Gordon aka Artsy PowerApper](https://twitter.com/ArtsyPowerApper)
+- [Mr Dang aka 8bit Classroom](https://twitter.com/8bitclassroom)
+- [Shane Young aka PowerApps911](https://twitter.com/ShanesCows)
+- [Emma Cooper, PowerApps PM](https://twitter.com/PowerEmmz)
+- [Daniel Christian](https://twitter.com/dchristian19)
+- [Hiro aka PowerAddict](https://twitter.com/mofumofu_dance)
+- [Tim aka timl](https://twitter.com/ShortForTim)
+- [Antoinette Naranjo](https://twitter.com/tianaranjo)
 
 ## PowerPlatform Communities
 
@@ -99,3 +110,8 @@ These are some great blogs to follow to get the latest, greatest PowerPlatform i
     - New community of PowerPlatform User Groups forming across the world.
     - They have a new group of community forums as well.
 - [PowerSummit](https://www.powerugsummit.com/home)
+
+## Best Practices
+
+- [Canvas App Coding Standards and Best Practices](https://pahandsonlab.blob.core.windows.net/documents/PowerApps%20canvas%20app%20coding%20standards%20and%20guidelines.pdf)
+- [PowerApps and Flow Governance White Paper](https://aka.ms/powerappsadminwhitepaper)

@@ -52,6 +52,10 @@ Updated: Sat Dec 29 12:23:44 PST 2018
     - Lots of cutting edge content here!
 - [Microsoft PowerApps](https://www.youtube.com/channel/UCGfWR2ekfRFckLjev6eQYLg)
     - Microsofts official(?) PowerApps YouTube channel
+- [Rory Neary](https://www.youtube.com/channel/UC8zM5DHeCeLlENwUedRMu6g)
+    - Well done and exuberant explanations of PowerApps functionalities.
+- [April Dunham](https://www.youtube.com/channel/UCz_x76EBX5UXsV27drGNh6w)
+    - Excellent PowerApps videos from basic to advanced.
     
 ## PowerPlatform Twitter "Folks to Follow"
 

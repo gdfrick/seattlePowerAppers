@@ -1,7 +1,7 @@
 # PowerApps support and learning resources
 
-Created: Thu Nov 1 07:09:49 PDT 2018
-Updated: Sat Dec 29 12:23:44 PST 2018
+- Created: Thu Nov 1 07:09:49 PDT 2018
+- Updated: Mon Jan 14 21:58:44 PST 2019
 
 ## PowerPlatform Documentation
 
@@ -56,6 +56,7 @@ Updated: Sat Dec 29 12:23:44 PST 2018
     - Well done and exuberant explanations of PowerApps functionalities.
 - [April Dunham](https://www.youtube.com/channel/UCz_x76EBX5UXsV27drGNh6w)
     - Excellent PowerApps videos from basic to advanced.
+- [Info PowerApps]()
     
 ## PowerPlatform Twitter "Folks to Follow"
 
@@ -106,5 +107,12 @@ These are some great blogs to follow to get the latest, greatest PowerPlatform i
 
 ## Best Practices
 
-- [Canvas App Coding Standards and Best Practices](https://pahandsonlab.blob.core.windows.net/documents/PowerApps%20canvas%20app%20coding%20standards%20and%20guidelines.pdf)
+- [Canvas App Coding Standards and Guidelines](https://pahandsonlab.blob.core.windows.net/documents/PowerApps%20canvas%20app%20coding%20standards%20and%20guidelines.pdf)
+  - Many good tips here from Control/Variable naming conventions to PowerApps performance tricks.
 - [PowerApps and Flow Governance White Paper](https://aka.ms/powerappsadminwhitepaper)
+  - Very useful information for enterprise PowerApps/Flow governance.
+
+## Pinterest Inspiration
+
+- [WebApps](https://www.pinterest.com/curlsky/webapps/)
+  - Lots of inspiration here!

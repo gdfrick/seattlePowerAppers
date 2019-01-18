@@ -13,6 +13,7 @@ Resources for members (and non-members) of the Seattle PowerAppers Meetup Group.
 - Wednesday November 28th 2018 6:00 PM
 - [West Seattle Coworking](http://www.westseattlecoworking.com/)
 - [SampleApp: Basic Requirements Gathering](./apps/basicRequirements.msapp)
+- [Outline of topics covered](./outlines/basicReqGathering.md)
 
 ## Meetup 3: Introduction to PowerApps Data Sources
 

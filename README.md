@@ -26,8 +26,12 @@ Resources for members (and non-members) of the Seattle PowerAppers Meetup Group.
 
 ### [Curated PowerApps Learning and Support Resources](./gettingStartedResources.md)
 
-- Updated 1/17/19
+- Updated 1/17/2019
 
 ### [Favorite PowerApps API's](./favoriteAPIs.md)
 
-- Updated 1/17/19
+- Updated 1/17/2019
+
+### [PowerApps Licensing Resources](./powerappsLicensing.md)
+
+- Updated 1/17/2019

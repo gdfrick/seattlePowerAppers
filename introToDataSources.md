@@ -1,4 +1,4 @@
-# Seattle PowerAppers Meetup #3
+# Seattle PowerAppers: Intro to Data Sources
 
 - Fri Dec 21 11:11:02 PST 2018
 - [West Seattle Library](https://www.spl.org/hours-and-locations/west-seattle-branch)

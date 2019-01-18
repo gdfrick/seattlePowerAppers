@@ -25,6 +25,7 @@ Resources for members (and non-members) of the Seattle PowerAppers Meetup Group.
 
 - Friday January 18th 2019 6:00 PM
 - [Youngstown Cultural Arts Center](http://youngstownarts.org/)
+- [Outline of topics covered](./outlines/realWorldPowerApps1.md)
 
 ## Resources
 

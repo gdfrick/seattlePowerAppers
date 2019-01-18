@@ -1,6 +1,7 @@
 # List of Fun API's to Use in PowerApps
 
-**Created:** Sun 01/06/2019 6:39 PM PST
+**Created:** Sun 01/06/2019 06:39 PM PST
+**Updated:** Thu 01/17/2019 22:28 PM PST
 
 ## Biological:
 
@@ -57,3 +58,10 @@
   - Returns objects such as: 
     - A `.png` image according to `width`, `height`, `center` parameters you specify.
     - Was offering a `path` on this said map tile, but [its been removed due to errors I brought up](https://github.com/MicrosoftDocs/azure-docs/issues/21449#issuecomment-451804267).
+    
+## Technical
+
+- [Google Charts QR Creator](https://developers.google.com/chart/infographics/docs/qr_codes)
+  - Given textual data
+  - Returns a QR code!
+  - Free!

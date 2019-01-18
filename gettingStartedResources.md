@@ -1,7 +1,7 @@
 # PowerApps support and learning resources
 
 - Created: Thu Nov 1 07:09:49 PDT 2018
-- Updated: Mon Jan 14 21:58:44 PST 2019
+- Updated: Thu Jan 17 21:56:44 PST 2019
 
 ## PowerPlatform Documentation
 
@@ -68,6 +68,7 @@
 - [Hiro aka PowerAddict](https://twitter.com/mofumofu_dance)
 - [Tim aka timl](https://twitter.com/ShortForTim)
 - [Antoinette Naranjo](https://twitter.com/tianaranjo)
+- [Office Developer](https://twitter.com/OfficeDev)
 
 ## PowerPlatform Communities
 
